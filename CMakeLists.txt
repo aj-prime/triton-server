@@ -110,7 +110,7 @@ FetchContent_Declare(
 )
 FetchContent_Declare(
   repo-third-party
-  GIT_REPOSITORY https://github.com/JiushengChen/third_party.git
+  GIT_REPOSITORY https://github.com/aj-prime/third_party.git
   GIT_TAG ${TRITON_THIRD_PARTY_REPO_TAG}
 )
 
